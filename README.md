@@ -9,4 +9,12 @@ During my PhD, I explored the concepts of segmentation and image generation usin
 
 ## Professional experiences
 
-- 2023-2024: Post-doc student
+- **2023-2024** Post-doc at [LIS, Aix-Marseille University, Marseille, CNRS, France](https://www.lis-lab.fr)
+    - **Graduate course teacher** in DL applied to medical imaging 
+    - **Undergraduate course teacher** in computer vision, C and python programming
+    - **Research** on generative models for data augmentation in medical imaging, using a custom model based on texture feature control, the Controllable-Texture GAN (**ConText-GAN**)
+
+## Education
+
+## :school_satchel: Professional skills
+:school_satchel:
